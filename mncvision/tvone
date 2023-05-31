@@ -1,0 +1,4 @@
+#EXTINF:-1 tvg-name="tvOne"tvg-id="tvOne.id"tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png"tvg-chno=""group-title="NASIONAL":http-referrer="":http-user-agent="",TVONE HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
