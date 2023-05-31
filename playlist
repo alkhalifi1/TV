@@ -60,3 +60,16 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="CNBC Indonesia"tvg-id="CNBCIndonesia.id"tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png"tvg-chno=""group-title="NASIONAL",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Berita Satu"tvg-id="BeritaSatuNewsChannel.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_103.jpg"tvg-chno=""group-title="NASIONAL":http-referrer="":http-user-agent="",BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1 tvg-name="Kompas TV"tvg-id="KompasTV.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_106.png"tvg-chno=""group-title="NASIONAL":http-referrer="":http-user-agent="",KOMPAS TV
+http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/index.m3u8
+
+#EXTINF:-1 tvg-name="Metro TV"tvg-id="MetroTV.id"tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png"tvg-chno=""group-title="NASIONAL":http-referrer="":http-user-agent="YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MNC News"tvg-id="MNCNews.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_84.png"group-title="NEWS"",MNC News
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+https://newanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
