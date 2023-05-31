@@ -1,0 +1,4 @@
+#EXTINF:-1 tvg-name="ANTV"tvg-id="ANTV.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png"tvg-chno=""group-title="NASIONAL":http-referrer="":http-user-agent="",ANTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
