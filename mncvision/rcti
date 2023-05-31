@@ -1,4 +1,3 @@
-#EXTINF:-1 tvg-name="RCTI"tvg-id="RCTI.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png"tvg-chno=""group-title="NASIONAL":http-referrer="":http-user-agent="",RCTI HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
