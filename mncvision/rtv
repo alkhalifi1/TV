@@ -1,0 +1,4 @@
+#EXTINF:-1 tvg-name="RTV"tvg-id="RTV"tvg-logo="http://www.transvision.co.id/images/channel/rajawali.png"tvg-chno=""group-title="NASIONAL":http-referrer="":http-user-agent="",RTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nxanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
