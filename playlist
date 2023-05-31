@@ -1,25 +1,25 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="tvOne"tvg-id="tvOne.id"tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png"tvg-chno=""group-title="NASIONAL":http-referrer="":http-user-agent="",TVONE HD
-https://github.com/alkhalifi1/TV/blob/main/mncvision/tvone
+https://raw.githubusercontent.com/alkhalifi1/TV/main/mncvision/tvone
 
 #EXTINF:-1 tvg-name="ANTV"tvg-id="ANTV.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png"tvg-chno=""group-title="NASIONAL":http-referrer="":http-user-agent="",ANTV
-https://github.com/alkhalifi1/TV/blob/main/mncvision/antv
+https://raw.githubusercontent.com/alkhalifi1/TV/main/mncvision/antv
 
 #EXTINF:-1 tvg-name="MNCTV"tvg-id="MNCTV.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png"tvg-chno=""group-title="NASIONAL":http-referrer="":http-user-agent="",MNCTV HD
-https://github.com/alkhalifi1/TV/blob/main/mncvision/mnctv
+https://raw.githubusercontent.com/alkhalifi1/TV/main/mncvision/mnctv
 
 #EXTINF:-1 tvg-name="RCTI"tvg-id="RCTI.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png"tvg-chno=""group-title="NASIONAL":http-referrer="":http-user-agent="",RCTI HD
-https://github.com/alkhalifi1/TV/blob/main/mncvision/rcti
+https://raw.githubusercontent.com/alkhalifi1/TV/main/mncvision/rcti
 
 #EXTINF:-1 tvg-name="GTV"tvg-id="GTV.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png"tvg-chno=""group-title="NASIONAL":http-referrer="":http-user-agent="",GTV HD
-https://github.com/alkhalifi1/TV/blob/main/mncvision/gtv
+https://raw.githubusercontent.com/alkhalifi1/TV/main/mncvision/gtv
 
 #EXTINF:-1 tvg-name="RTV"tvg-id="RTV"tvg-logo="http://www.transvision.co.id/images/channel/rajawali.png"tvg-chno=""group-title="NASIONAL":http-referrer="":http-user-agent="",RTV
-https://github.com/alkhalifi1/TV/blob/main/mncvision/rtv
+https://raw.githubusercontent.com/alkhalifi1/TV/main/mncvision/rtv
 
 #EXTINF:-1 tvg-name="Net TV"tvg-id="NET.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_116.jpg"tvg-chno=""group-title="NASIONAL":http-referrer="":http-user-agent="",NET HD
-https://github.com/alkhalifi1/TV/blob/main/mncvision/nettv
+https://raw.githubusercontent.com/alkhalifi1/TV/main/mncvision/nettv
 
 #EXTINF:-1 tvg-name="iNews"tvg-id="iNews.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png"tvg-chno=""group-title="NASIONAL":http-referrer="":http-user-agent="",INEWS
-https://github.com/alkhalifi1/TV/blob/main/mncvision/mncnews
+https://raw.githubusercontent.com/alkhalifi1/TV/main/mncvision/mncnews
 
