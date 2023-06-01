@@ -39,9 +39,7 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 tvg-name="RTV"tvg-id="RTV"tvg-logo="http://www.transvision.co.id/images/channel/rajawali.png"tvg-chno=""group-title="NASIONAL",RTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzBhMTFhZjktZmE1Zi0zMWU0LWJhMmUtZmY1M2U2MWRiZTNh
-https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
 #EXTINF:-1 tvg-name="Net TV"tvg-id="NET.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_116.jpg"tvg-chno=""group-title="NASIONAL",NET HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -57,10 +55,10 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-name="CNN Indonesia HD"tvg-id="CNNIndonesia"tvg-logo="http://www.transvision.co.id/images/channel/cnn_ind_bg.png"tvg-chno=""group-title="NEWS",CNN Indonesia
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1811736564_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-name="CNBC Indonesia"tvg-id="CNBCIndonesia.id"tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png"tvg-chno=""group-title="NEWS",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1811736564_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-name="Berita Satu"tvg-id="BeritaSatuNewsChannel.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_103.jpg"tvg-chno=""group-title="NEWS",BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
@@ -97,3 +95,5 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg418production/ch128/index.
 #EXTINF:-1 tvg-name="TheIndonesiaChannel"tvg-id="TheIndonesiaChannel.id"tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/the-indonesia-channel-id.png"group-title="LOKAL":http-user-agent="",The Indonesia Channel
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 
+#EXTINF:-1 tvg-name="Garuda TV"tvg-id="GarudaTV"tvg-logo="https://www.lyngsat.com/logo/tv/gg/garuda-tv-id.svg"group-title="LOKAL":http-user-agent="",Garuda TV
+https://streamweb.garuda.tv/live/garudatv/chunklist_w805198646.m3u8
