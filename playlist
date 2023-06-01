@@ -94,3 +94,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-49
 #EXTINF:-1 tvg-name="Da Ai TV"tvg-id="DaAiTV.id"tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png"group-title="LOKAL":http-user-agent="",Da Ai TV
 http://edge.linknetott.swiftserve.com/channelgroup4/cg418production/ch128/index.m3u8
 
+#EXTINF:-1 tvg-name="The Indonesia Channel"tvg-id="TheIndonesiaChannel.id"tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/the-indonesia-channel-id.png"group-title="NATIONAL",The Indonesia Channel
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
+
