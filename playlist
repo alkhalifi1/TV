@@ -12,20 +12,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 http://edge.linknetott.swiftserve.com/channelgroup3/cg314production/ch7/index.m3u8
 
 #EXTINF:-1 tvg-name="MNCTV"tvg-id="MNCTV.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png"tvg-chno=""group-title="NASIONAL",MNCTV HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 
 #EXTINF:-1 tvg-name="Indosiar"tvg-id="Indosiar.id"tvg-logo="https://mncvision.id/userfiles/image/channel/Indosiar.png"tvg-chno=""group-title="NASIONAL",INDOSIAR HD
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
-#EXTINF:-1 tvg-name="RCTI"tvg-id="RCTI.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png"group-title="NASIONAL":http-user-agent="",RCTI HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTINF:-1 tvg-name="RCTI"tvg-id="RCTI.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png"group-title="NASIONAL":http-user-agent="",RCTI
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
 
 #EXTINF:-1 tvg-name="RCTI"tvg-id="RCTI.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png"group-title="NASIONAL":http-user-agent="",RCTI HD
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
+http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
 #EXTINF:-1 tvg-name="SCTV"tvg-id="SCTV.id"tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png"tvg-chno="tvg-chno=""group-title="NASIONAL",SCTV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
@@ -34,9 +30,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="GTV"tvg-id="GTV.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png"tvg-chno=""group-title="NASIONAL",GTV HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 
 #EXTINF:-1 tvg-name="RTV"tvg-id="RTV"tvg-logo="http://www.transvision.co.id/images/channel/rajawali.png"tvg-chno=""group-title="NASIONAL",RTV
 https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
@@ -50,9 +44,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
 
 #EXTINF:-1 tvg-name="iNews"tvg-id="iNews.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png"tvg-chno=""group-title="NASIONAL""group-title="NEWS",INEWS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzBhMTFhZjktZmE1Zi0zMWU0LWJhMmUtZmY1M2U2MWRiZTNh
-https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
 #EXTINF:-1 tvg-name="CNN Indonesia HD"tvg-id="CNNIndonesia"tvg-logo="http://www.transvision.co.id/images/channel/cnn_ind_bg.png"tvg-chno=""group-title="NEWS",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1811736564_b384000_sleng.m3u8
