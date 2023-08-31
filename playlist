@@ -51,7 +51,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1914480944_b
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #EXTINF:-1 tvg-name="Kompas TV"tvg-id="KompasTV.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_106.png"tvg-chno=""group-title="NEWS",KOMPAS TV
-http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/index.m3u8
+https://ythls.onrender.com/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
 
 #EXTINF:-1 tvg-name="Metro TV"tvg-id="MetroTV.id"tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png"tvg-chno=""group-title="NEWS",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
@@ -62,13 +62,13 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 #EXTINF:-1 tvg-name="TVRI"tvg-id="TVRI.id"tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-id.png"group-title="NASIONAL":http-user-agent="",TVRI
-http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/03.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
 #EXTINF:-1 tvg-name="Jax TV"tvg-id="JaxTV.id"tvg-logo="https://www.lyngsat.com/logo/tv/jj/jak-tv-id.png"group-title="LOKAL":http-user-agent="",JAX TV
-http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/index.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
 
 #EXTINF:-1 tvg-name="JTV"tvg-id="JTV.id"tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv-id.png"group-title="LOKAL":http-user-agent="",JTV
-http://edge.linknetott.swiftserve.com/channelgroup4/cg405production/ch17/index.m3u8
+https://app-etslive-2.vidio.com/live/9713/master.m3u8
 
 #EXTINF:-1 tvg-name="Bandung TV"tvg-id="BandungTV.id"tvg-logo="https://www.lyngsat.com/logo/tv/bb/bandung_tv_id.png"group-title="LOKAL":http-user-agent="",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
@@ -77,7 +77,7 @@ http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
   
 #EXTINF:-1 tvg-name="Da Ai TV"tvg-id="DaAiTV.id"tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png"group-title="LOKAL":http-user-agent="",Da Ai TV
-http://edge.linknetott.swiftserve.com/channelgroup4/cg418production/ch128/index.m3u8
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
 
 #EXTINF:-1 tvg-name="TheIndonesiaChannel"tvg-id="TheIndonesiaChannel.id"tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/the-indonesia-channel-id.png"group-title="LOKAL":http-user-agent="",The Indonesia Channel
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
