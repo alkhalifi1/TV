@@ -33,9 +33,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
 #EXTINF:-1 tvg-name="Net TV"tvg-id="NET.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_116.jpg"tvg-chno=""group-title="NASIONAL",NET HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzBhMTFhZjktZmE1Zi0zMWU0LWJhMmUtZmY1M2U2MWRiZTNh
-https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+https://op-group1-swiftservehd-1.dens.tv/h/h06/01.m3u8
 
 #EXTINF:-1 tvg-name="MOJI"tvg-id="MOJI"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png"tvg-chno=""group-title="NASIONAL",MOJI
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
