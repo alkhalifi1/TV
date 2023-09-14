@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url=bit.ly/alkhalifiepg0, refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url=http://bit.ly/alkhalifiepg0, refresh="1440" max-conn="1" refresh="24"
 
 
 #EXTINF:-1 tvg-name="Trans TV"tvg-id="TransTV.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png"tvg-chno=""group-title="NASIONAL",TRANS TV
