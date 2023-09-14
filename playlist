@@ -41,7 +41,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m
 #EXTINF:-1 tvg-name="iNews"tvg-id="iNews.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png"tvg-chno=""group-title="NASIONAL""group-title="NEWS",INEWS
 http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
-#EXTINF:-1 tvg-name="CNN Indonesia HD"tvg-id="CNNIndonesia.id"tvg-logo="http://www.transvision.co.id/images/channel/cnn_ind_bg.png"tvg-chno=""group-title="NEWS",CNN Indonesia
+#EXTINF:-1 tvg-name="CNN Indonesia"tvg-id="CNNIndonesia.id"tvg-logo="http://www.transvision.co.id/images/channel/cnn_ind_bg.png"tvg-chno=""group-title="NEWS",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CNBC Indonesia"tvg-id="CNBCIndonesia.id"tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png"tvg-chno=""group-title="NEWS",CNBC Indonesia
@@ -64,8 +64,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mp
 #EXTINF:-1 tvg-name="TVRI"tvg-id="TVRI.id"tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-id.png"group-title="NASIONAL":http-user-agent="",TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
-#EXTINF:-1 tvg-name="JaxTV"tvg-id="JaxTV.id"tvg-logo="https://www.lyngsat.com/logo/tv/jj/jak-tv-id.png"group-title="LOKAL":http-user-agent="",JAX TV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
+#EXTINF:-1 tvg-name="JakTV"tvg-id="JakTV.id"tvg-logo="https://www.lyngsat.com/logo/tv/jj/jak-tv-id.png"group-title="LOKAL":http-user-agent="",JakTV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/jaktv.m3u8
 
 #EXTINF:-1 tvg-name="JTV"tvg-id="JTV.id"tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv-id.png"group-title="LOKAL":http-user-agent="",JTV
 https://app-etslive-2.vidio.com/live/9713/master.m3u8
@@ -82,5 +82,5 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/i
 #EXTINF:-1 tvg-name="TheIndonesiaChannel"tvg-id="TheIndonesiaChannel.id"tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/the-indonesia-channel-id.png"group-title="LOKAL":http-user-agent="",The Indonesia Channel
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 
-#EXTINF:-1 tvg-name="Garuda TV"tvg-id="GarudaTV"tvg-logo="https://www.lyngsat.com/logo/tv/gg/garuda-tv-id.svg"group-title="LOKAL":http-user-agent="",Garuda TV
+#EXTINF:-1 tvg-name="Garuda TV"tvg-id="Garuda TV"tvg-logo="https://www.lyngsat.com/logo/tv/gg/garuda-tv-id.svg"group-title="LOKAL":http-user-agent="",Garuda TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
