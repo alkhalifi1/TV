@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url=https://aqfadtv.xyz/epg, refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url=bit.ly/alkhalifiepg0, refresh="1440" max-conn="1" refresh="24"
 
 
 #EXTINF:-1 tvg-name="Trans TV"tvg-id="TransTV.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png"tvg-chno=""group-title="NASIONAL",TRANS TV
@@ -15,13 +15,13 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg314production/ch7/index.m3
 http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 
 #EXTINF:-1 tvg-name="Indosiar"tvg-id="Indosiar.id"tvg-logo="https://mncvision.id/userfiles/image/channel/Indosiar.png"tvg-chno=""group-title="NASIONAL",INDOSIAR HD
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/03.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
 #EXTINF:-1 tvg-name="RCTI"tvg-id="RCTI.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png"group-title="NASIONAL":http-user-agent="",RCTI HD
 http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
 #EXTINF:-1 tvg-name="SCTV"tvg-id="SCTV.id"tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png"tvg-chno="tvg-chno=""group-title="NASIONAL",SCTV
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/03.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 #EXTINF:-1 tvg-name="Trans 7"tvg-id="Trans7.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png"tvg-chno=""group-title="NASIONAL",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
@@ -36,7 +36,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
 #EXTINF:-1 tvg-name="MOJI"tvg-id="MOJI"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png"tvg-chno=""group-title="NASIONAL",MOJI
-http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
 
 #EXTINF:-1 tvg-name="iNews"tvg-id="iNews.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png"tvg-chno=""group-title="NASIONAL""group-title="NEWS",INEWS
 http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
