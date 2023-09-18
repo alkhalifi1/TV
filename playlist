@@ -107,6 +107,12 @@ http://210.210.155.35/uq2663/h/h191/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4
 #EXTINF:-1 tvg-name="Aniplus"tvg-id="AniPlus"tvg-logo="https://i.imgur.com/Im3MePy.png"tvg-chno=""group-title="KIDS":http-user-agent="",ANIPLUS
 http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
 
+#EXTINF:-1 tvg-name="Hits"tvg-id="HITS.sg"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515947_ico.png?ts=1660693686"tvg-chno=""group-title="MOVIES":http-user-agent="",Hits
+https://op-group2-swiftservehd-1.dens.tv/h/h37/index.m3u8
+
+#EXTINF:-1 tvg-name="HITS Movies"tvg-id="HITSMovies.sg"tvg-logo="http://www.dens.tv/images/channel-logo/119.jpg"tvg-chno=""group-title="MOVIES":http-user-agent="",HITS Movies
+https://op-group2-swiftservehd-1.dens.tv/h/h38/index.m3u8
+
 #EXTINF:-1 tvg-name="Celestial Movies"tvg-id="CelestialMovies.hk"tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png"tvg-chno=""group-title="MOVIES":http-user-agent="",Celestial Movies
 https://op-group2-swiftservehd-1.dens.tv/h/h14/01.m3u8
 
