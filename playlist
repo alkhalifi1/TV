@@ -114,19 +114,19 @@ https://op-group2-swiftservehd-1.dens.tv/h/h37/index.m3u8
 https://op-group2-swiftservehd-1.dens.tv/h/h38/index.m3u8
 
 #EXTINF:-1 tvg-name="Celestial Movies"tvg-id="CelestialMovies.hk"tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png"tvg-chno=""group-title="MOVIES":http-user-agent="",Celestial Movies
-https://op-group2-swiftservehd-1.dens.tv/h/h14/01.m3u8
+https://op-group2-swiftservehd-1.dens.tv/h/h14/index.m3u8
 
 #EXTINF:-1 tvg-name="CCM"tvg-id="CCM.hk"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529154_ico.png?ts=1660694924"tvg-chno=""group-title="MOVIES":http-user-agent="",Celestial Classic Movies
-https://op-group2-swiftservesd-1.dens.tv/s/s31/01.m3u8
+https://op-group2-swiftservesd-1.dens.tv/s/s31/index.m3u8
 
 #EXTINF:-1 tvg-name="Thrill"tvg-id="Thrill.hk"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19498504_ico.png?ts=1655156867"tvg-chno=""group-title="MOVIES":http-user-agent="",Thrill
-https://op-group2-swiftservesd-1.dens.tv/s/s34/01.m3u8
+https://op-group2-swiftservesd-1.dens.tv/s/s34/index.m3u8
 
 #EXTINF:-1 tvg-id="Dunia Sinema HD" tvg-name="Dunia Sinema HD" tvg-logo="https://i.postimg.cc/mDCCS0Rh/20230520-093534.jpg" group-title="MOVIES",Dunia Sinema
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 #EXTINF:-1 tvg-name="CinemaWorld HD"tvg-id="CinemaWorld HD"tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202206/20220630/20220630155939789lm4.png"tvg-chno=""group-title="MOVIES":http-user-agent="",CinemaWorld HD
-https://op-group2-swiftservehd-1.dens.tv/h/h04/01.m3u8
+https://op-group2-swiftservehd-1.dens.tv/h/h04/index.m3u8
 
 #EXTINF:-1 tvg-name="My Cinema"tvg-id="MyCinema"tvg-logo="https://i.imgur.com/pY7ZoWB.png"tvg-chno=""group-title="MOVIES":http-user-agent="",My Cinema
 http://210.210.155.35/session/c65f3ec8-74e8-11ec-8b65-b82a72d63267/uq2663/h/h192/index.m3u8
@@ -142,14 +142,14 @@ http://210.210.155.35/uq2663/h/h18/index.m3u8?app_type=web&userid=50n13N0v14nd1&
 http://210.210.155.35/session/3074917a-7514-11ec-900b-c81f66f89318/uq2663/h/h194/index.m3u8
 
 #EXTINF:-1 tvg-name="Rock Action"tvg-id="RockExtreme.sg"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_248.png"tvg-chno=""group-title="MOVIES":http-user-agent="",Rock Action ID
-https://op-group2-swiftservehd-1.dens.tv/h/h15/01.m3u8
+https://op-group2-swiftservehd-1.dens.tv/h/h15/index.m3u8
 
 #EXTINF:-1 tvg-name="ROCK Entertainment"tvg-id="ROCKEntertainment.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_240.png"tvg-chno=""group-title="ENTERTAINMENT":http-user-agent="",Rock Entertainment
 https://op-group2-swiftservehd-1.dens.tv/h/h16/index.m3u8
 
 #EXTINF:-1 tvg-name="Motorvision"tvg-id="ATAJ0500410A"tvg-logo="https://www.lyngsat.com/logo/tv/mm/motorvision-tv-de.png"tvg-chno=""group-title="SPORTS":http-user-agent="Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0",Motorvision TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8
 
 #EXTINF:-1 tvg-name="FashionTV HD"tvg-id="FashionTV HD"tvg-logo="https://i.imgur.com/ucTh9tO.png"tvg-chno=""group-title="LIFESTYLE":http-user-agent="",FashionTV HD
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/playlist.m3u8
@@ -158,11 +158,11 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_new_york_9dd_43432_d
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
 
 #EXTINF:-1 tvg-name="KIX"tvg-id="KIX.id"tvg-logo="https://www.useetv.com/pimages/logo_kix_big.png?v=1"tvg-chno=""group-title="ENTERTAINMENT":http-user-agent="",KIX
-https://op-group2-swiftservehd-1.dens.tv/h/h07/01.m3u8
+https://op-group2-swiftservehd-1.dens.tv/h/h07/index.m3u8
 
 #EXTINF:-1 tvg-name="tvN HD"tvg-id="tvN.id"tvg-logo="https://www.useetv.com/pimages/logo_tvn_big.png?v=1"tvg-chno=""group-title="ENTERTAINMENT":http-user-agent="",TVN HD
-https://op-group2-swiftservehd-1.dens.tv/h/h20/01.m3u8
+https://op-group2-swiftservehd-1.dens.tv/h/h20/index.m3u8
 
 #EXTINF:-1 tvg-name="tvN Movies"tvg-id="tvNMovies.kr"tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png"tvg-chno=""group-title="MOVIES":http-user-agent="",tvN Movies
-https://op-group2-swiftservehd-1.dens.tv/h/h21/01.m3u8
+https://op-group2-swiftservehd-1.dens.tv/h/h21/index.m3u8
 
