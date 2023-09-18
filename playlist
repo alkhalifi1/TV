@@ -139,7 +139,7 @@ http://210.210.155.35/session/3074917a-7514-11ec-900b-c81f66f89318/uq2663/h/h194
 https://op-group2-swiftservehd-1.dens.tv/h/h15/01.m3u8
 
 #EXTINF:-1 tvg-name="ROCK Entertainment"tvg-id="ROCKEntertainment.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_240.png"tvg-chno=""group-title="ENTERTAINMENT":http-user-agent="",Rock Entertainment
-	https://op-group2-swiftservehd-1.dens.tv/h/h16/index.m3u8
+https://op-group2-swiftservehd-1.dens.tv/h/h16/index.m3u8
 
 #EXTINF:-1 tvg-name="Motorvision"tvg-id="ATAJ0500410A"tvg-logo="https://www.lyngsat.com/logo/tv/mm/motorvision-tv-de.png"tvg-chno=""group-title="SPORTS":http-user-agent="Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0",Motorvision TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
