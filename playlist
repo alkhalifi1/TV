@@ -75,7 +75,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/jaktv.m3u8
 
 #EXTINF:-1 tvg-name="JTV"tvg-id="JTV.id"tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv-id.png"group-title="LOKAL":http-user-agent="",JTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://app-etslive-2.vidio.com/live/9713/master.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch17)/index.m3u8
 
 #EXTINF:-1 tvg-name="Bandung TV"tvg-id="BandungTV.id"tvg-logo="https://www.lyngsat.com/logo/tv/bb/bandung_tv_id.png"group-title="LOKAL":http-user-agent="",Bandung TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
