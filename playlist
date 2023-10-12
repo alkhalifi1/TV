@@ -1,6 +1,5 @@
 #EXTM3U x-tvg-url=https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, refresh="1440" max-conn="1" refresh="24"
 
-
 #EXTINF:-1 tvg-name="Trans TV"tvg-id="TransTV.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png"tvg-chno=""group-title="NASIONAL",TRANS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
