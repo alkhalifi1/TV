@@ -88,9 +88,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-49
 #EXTINF:-1 tvg-name="Da Ai TV"tvg-id="DaAiTV.id"tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png"group-title="LOKAL":http-user-agent="",Da Ai TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
 
-#EXTINF:-1 tvg-name="TheIndonesiaChannel"tvg-id="TheIndonesiaChannel.id"tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/the-indonesia-channel-id.png"group-title="LOKAL":http-user-agent="",The Indonesia Channel
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
-
 #EXTINF:-1 tvg-name="Garuda TV"tvg-id="Garuda TV"tvg-logo="https://www.lyngsat.com/logo/tv/gg/garuda-tv-id.svg"group-title="LOKAL":http-user-agent="",Garuda TV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/garuda.m3u8
 
@@ -117,6 +114,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/index.
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
 
 #EXTINF:-1 tvg-name="My Kidz"tvg-id="MyKidz"tvg-logo="https://i.imgur.com/qzZFU6d.png"tvg-chno=""group-title="KIDS":http-user-agent="",My Kidz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://210.210.155.35/uq2663/h/h191/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=My_Kidz_HD
 
 #EXTINF:-1 tvg-name="Aniplus"tvg-id="AniPlus"tvg-logo="https://i.imgur.com/Im3MePy.png"tvg-chno=""group-title="KIDS":http-user-agent="",ANIPLUS
