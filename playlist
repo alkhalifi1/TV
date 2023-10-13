@@ -131,6 +131,10 @@ https://op-group2-swiftservehd-1.dens.tv/h/h37/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://op-group2-swiftservehd-1.dens.tv/h/h38/index.m3u8
 
+#EXTINF:-1 tvg-name="Z Bioskop"tvg-id="ZBioskop"tvg-logo="https://i.imgur.com/Xl7MJnd.png"tvg-chno=""group-title="MOVIES":http-user-agent="",ZBioskop
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://edge.linknetott.swiftserve.com/channelgroup2/cg216production/ch161/03.m3u8
+
 #EXTINF:-1 tvg-name="Celestial Movies"tvg-id="CelestialMovies.hk"tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png"tvg-chno=""group-title="MOVIES":http-user-agent="",Celestial Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://op-group2-swiftservehd-1.dens.tv/h/h14/index.m3u8
