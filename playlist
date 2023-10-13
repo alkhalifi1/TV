@@ -129,7 +129,7 @@ https://op-group2-swiftservehd-1.dens.tv/h/h37/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://op-group2-swiftservehd-1.dens.tv/h/h38/index.m3u8
 
-#EXTINF:-1 tvg-name="Z Bioskop"tvg-id="ZBioskop"tvg-logo="https://i.imgur.com/Xl7MJnd.png"tvg-chno=""group-title="MOVIES":http-user-agent="",ZBioskop
+#EXTINF:-1 tvg-name="Zee Bioskop"tvg-id="ZeeBioskop.id"tvg-logo="https://i.imgur.com/Xl7MJnd.png"tvg-chno=""group-title="MOVIES":http-user-agent="",Zee Bioskop
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://edge.linknetott.swiftserve.com/channelgroup2/cg216production/ch161/03.m3u8
 
@@ -170,7 +170,7 @@ http://210.210.155.35/uq2663/h/h18/index.m3u8?app_type=web&userid=50n13N0v14nd1&
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://210.210.155.35/session/3074917a-7514-11ec-900b-c81f66f89318/uq2663/h/h194/index.m3u8
 
-#EXTINF:-1 tvg-name="Rock Action"tvg-id="RockExtreme.sg"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_248.png"tvg-chno=""group-title="MOVIES":http-user-agent="",Rock Action ID
+#EXTINF:-1 tvg-name="Rock Action"tvg-id="RockExtreme.sg"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_248.png"tvg-chno=""group-title="MOVIES":http-user-agent="",Rock Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://op-group2-swiftservehd-1.dens.tv/h/h15/index.m3u8
 
