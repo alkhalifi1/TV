@@ -135,7 +135,7 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg216production/ch161/03.m3u
 
 #EXTINF:-1 tvg-name="Celestial Movies"tvg-id="CelestialMovies.hk"tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png"tvg-chno=""group-title="MOVIES":http-user-agent="",Celestial Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://op-group2-swiftservehd-1.dens.tv/h/h14/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h212/index.m3u8
 
 #EXTINF:-1 tvg-name="CCM"tvg-id="CCM.hk"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529154_ico.png?ts=1660694924"tvg-chno=""group-title="MOVIES":http-user-agent="",Celestial Classic Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
