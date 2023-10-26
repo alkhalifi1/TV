@@ -95,21 +95,6 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/garuda.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://aflaxtv.xyz:8080/live/stadnik/6a627b52a9/298546.m3u8
 
-#EXTINF:-1 tvg-name="Citra Muslim"tvg-id="CitraMuslim.id"tvg-logo="https://www.lyngsat.com/logo/tv/cc/citra-muslim-id.png"tvg-chno=""group-title="ENTERTAINMENT":http-user-agent="",Citra Muslim
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8
-
-#EXTINF:-1 tvg-name="Citra Drama"tvg-id="CitraDrama.id"tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png"tvg-chno=""group-title="ENTERTAINMENT":http-user-agent="",Citra Drama
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
-
-#EXTINF:-1 tvg-name="Citra Dangdut"tvg-id="CitraDangdut.id"tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png"tvg-chno=""group-title="ENTERTAINMENT":http-user-agent="",Citra Dangdut
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
-
-#EXTINF:-1 tvg-name="Citra Entertainment"tvg-id="Citra Entertainment.id"tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9b24e6afb5920e1696c0a0fceda060cf.png"tvg-chno=""group-title="ENTERTAINMENT":http-user-agent="",Citra Entertainment
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u8
-
-#EXTINF:-1 tvg-name="Citra Bioskop"tvg-id="CitraBioskop.id"tvg-logo="https://i.imgur.com/5Lh25lC.png"tvg-chno=""group-title="MOVIES":http-user-agent="",Citra Bioskop
-http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/index.m3u8
-
 #EXTINF:-1 tvg-name="IndiKids"tvg-id="IndiKids.id"tvg-logo="https://i.ibb.co/S63v0BK/20230828-043622.png"tvg-chno=""group-title="KIDS":http-user-agent="",Indi Kids
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
 
@@ -130,8 +115,9 @@ https://op-group2-swiftservehd-1.dens.tv/h/h37/index.m3u8
 https://op-group2-swiftservehd-1.dens.tv/h/h38/index.m3u8
 
 #EXTINF:-1 tvg-name="Zee Bioskop"tvg-id="ZeeBioskop.id"tvg-logo="https://i.imgur.com/Xl7MJnd.png"tvg-chno=""group-title="MOVIES":http-user-agent="",Zee Bioskop
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://edge.linknetott.swiftserve.com/channelgroup2/cg216production/ch161/03.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzBhMTFhZjktZmE1Zi0zMWU0LWJhMmUtZmY1M2U2MWRiZTNh
+https://mangga-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTINF:-1 tvg-name="Celestial Movies"tvg-id="CelestialMovies.hk"tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png"tvg-chno=""group-title="MOVIES":http-user-agent="",Celestial Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
