@@ -65,7 +65,7 @@ https://ythls.onrender.com/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
 
 #EXTINF:-1 tvg-name="Metro TV"tvg-id="MetroTV.id"tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png"tvg-chno=""group-title="NEWS",METRO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-	https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
 
 #EXTINF:-1 tvg-name="TVRI"tvg-id="TVRI.id"tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-id.png"group-title="NASIONAL":http-user-agent="",TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
@@ -176,7 +176,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mi
 
 #EXTINF:-1 tvg-name="KIX"tvg-id="KIX.id"tvg-logo="https://www.useetv.com/pimages/logo_kix_big.png?v=1"tvg-chno=""group-title="ENTERTAINMENT":http-user-agent="",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-	https://op-group1-swiftservehd-1.dens.tv/h/h220/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h220/index.m3u8
 
 #EXTINF:-1 tvg-name="tvN HD"tvg-id="tvN.id"tvg-logo="https://www.useetv.com/pimages/logo_tvn_big.png?v=1"tvg-chno=""group-title="ENTERTAINMENT":http-user-agent="",TVN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
