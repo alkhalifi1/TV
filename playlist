@@ -17,8 +17,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 
 #EXTINF:-1 tvg-name="Indosiar"tvg-id="Indosiar.id"tvg-logo="https://mncvision.id/userfiles/image/channel/Indosiar.png"tvg-chno=""group-title="NASIONAL",INDOSIAR HD
-http://193.233.206.48:8090/live/rx4/1478/60b74bbbe4d00f4ae8ffe7bf4c42064d/index.m3u8
-#http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/162138
+#http://193.233.206.48:8090/live/rx4/1478/60b74bbbe4d00f4ae8ffe7bf4c42064d/index.m3u8
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/162138
 
 #EXTINF:-1 tvg-name="RCTI"tvg-id="RCTI.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png"group-title="NASIONAL":http-user-agent="",RCTI HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
