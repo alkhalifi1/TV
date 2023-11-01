@@ -180,3 +180,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h215/index.m3u8
 #EXTINF:-1 tvg-name="tvN Movies"tvg-id="tvNMovies.kr"tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png"tvg-chno=""group-title="MOVIES":http-user-agent="",tvN Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h214/index.m3u8
+
+#EXTINF:-1 tvg-name="Al Jazeera English HD"tvg-id="AlJazeeraEnglish"tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/374_144.png"tvg-chno=""group-title="NEWS":http-user-agent="",Al Jazeera
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h246/index.m3u8
+
+#EXTINF:-1 tvg-name="NHK World HD"tvg-id="NHKWorldPremium"tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/428_144.png"tvg-chno=""group-title="NEWS":http-user-agent="",NHK World HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h216/index.m3u8
