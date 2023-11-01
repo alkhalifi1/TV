@@ -18,7 +18,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 
 #EXTINF:-1 tvg-name="Indosiar"tvg-id="Indosiar.id"tvg-logo="https://mncvision.id/userfiles/image/channel/Indosiar.png"tvg-chno=""group-title="NASIONAL",INDOSIAR HD
 #http://193.233.206.48:8090/live/rx4/1478/60b74bbbe4d00f4ae8ffe7bf4c42064d/index.m3u8
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/162138
+http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
 #EXTINF:-1 tvg-name="RCTI"tvg-id="RCTI.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png"group-title="NASIONAL":http-user-agent="",RCTI HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -27,7 +27,7 @@ http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/162138
 http://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-name="SCTV"tvg-id="SCTV.id"tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png"tvg-chno="tvg-chno=""group-title="NASIONAL",SCTV
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/162141
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
 #EXTINF:-1 tvg-name="Trans 7"tvg-id="Trans7.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png"tvg-chno=""group-title="NASIONAL",TRANS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -45,7 +45,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-
 https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
 
 #EXTINF:-1 tvg-name="MOJI"tvg-id="MOJI"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png"tvg-chno=""group-title="NASIONAL",MOJI
-http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
 
 #EXTINF:-1 tvg-name="iNews"tvg-id="iNews.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png"tvg-chno=""group-title="NASIONAL""group-title="NEWS",INEWS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -73,11 +73,11 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)
 
 #EXTINF:-1 tvg-name="JakTV"tvg-id="JakTV.id"tvg-logo="https://www.lyngsat.com/logo/tv/jj/jak-tv-id.png"group-title="LOKAL":http-user-agent="",JakTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/jaktv.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s123/index.m3u8
 
 #EXTINF:-1 tvg-name="JTV"tvg-id="JTV.id"tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv-id.png"group-title="LOKAL":http-user-agent="",JTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch17)/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8
 
 #EXTINF:-1 tvg-name="Bandung TV"tvg-id="BandungTV.id"tvg-logo="https://www.lyngsat.com/logo/tv/bb/bandung_tv_id.png"group-title="LOKAL":http-user-agent="",Bandung TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -101,7 +101,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748
 
 #EXTINF:-1 tvg-name="My Kidz"tvg-id="MyKidz"tvg-logo="https://i.imgur.com/qzZFU6d.png"tvg-chno=""group-title="KIDS":http-user-agent="",My Kidz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://210.210.155.35/uq2663/h/h191/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=My_Kidz_HD
+https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
 
 #EXTINF:-1 tvg-name="Aniplus"tvg-id="AniPlus"tvg-logo="https://i.imgur.com/Im3MePy.png"tvg-chno=""group-title="KIDS":http-user-agent="",ANIPLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
