@@ -6,11 +6,11 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="tvOne"tvg-id="tvOne.id"tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png"tvg-chno=""group-title="NEWS",TVONE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
 
 #EXTINF:-1 tvg-name="ANTV"tvg-id="ANTV.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png"tvg-chno=""group-title="NASIONAL",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 
 #EXTINF:-1 tvg-name="MNCTV"tvg-id="MNCTV.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png"tvg-chno=""group-title="NASIONAL",MNCTV HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -31,21 +31,21 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
 #EXTINF:-1 tvg-name="Trans 7"tvg-id="Trans7.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png"tvg-chno=""group-title="NASIONAL",TRANS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+http://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="GTV"tvg-id="GTV.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png"tvg-chno=""group-title="NASIONAL",GTV HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 
 #EXTINF:-1 tvg-name="RTV"tvg-id="RTV"tvg-logo="http://www.transvision.co.id/images/channel/rajawali.png"tvg-chno=""group-title="NASIONAL",RTV
-https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+http://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
 #EXTINF:-1 tvg-name="Net TV"tvg-id="NET.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_116.jpg"tvg-chno=""group-title="NASIONAL",NET HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
 
 #EXTINF:-1 tvg-name="MOJI"tvg-id="MOJI"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png"tvg-chno=""group-title="NASIONAL",MOJI
-https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
 
 #EXTINF:-1 tvg-name="iNews"tvg-id="iNews.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png"tvg-chno=""group-title="NASIONAL""group-title="NEWS",INEWS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -66,14 +66,14 @@ https://ythls.onrender.com/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
 
 #EXTINF:-1 tvg-name="Metro TV"tvg-id="MetroTV.id"tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png"tvg-chno=""group-title="NEWS",METRO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
 
 #EXTINF:-1 tvg-name="TVRI"tvg-id="TVRI.id"tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-id.png"group-title="NASIONAL":http-user-agent="",TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
 #EXTINF:-1 tvg-name="JakTV"tvg-id="JakTV.id"tvg-logo="https://www.lyngsat.com/logo/tv/jj/jak-tv-id.png"group-title="LOKAL":http-user-agent="",JakTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://op-group1-swiftservesd-1.dens.tv/s/s123/index.m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s123/index.m3u8
 
 #EXTINF:-1 tvg-name="JTV"tvg-id="JTV.id"tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv-id.png"group-title="LOKAL":http-user-agent="",JTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -90,7 +90,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-49
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
 
 #EXTINF:-1 tvg-name="Garuda TV"tvg-id="Garuda TV"tvg-logo="https://www.lyngsat.com/logo/tv/gg/garuda-tv-id.svg"group-title="LOKAL":http-user-agent="",Garuda TV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/garuda.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch54%29/index.m3u8
 
 #EXTINF:-1 tvg-name="Mentari TV"tvg-id="MentariTV.id"tvg-logo="https://i.imgur.com/QkTgy1M.png"tvg-chno=""group-title="LOKAL":http-user-agent="",Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -101,45 +101,40 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748
 
 #EXTINF:-1 tvg-name="My Kidz"tvg-id="MyKidz"tvg-logo="https://i.imgur.com/qzZFU6d.png"tvg-chno=""group-title="KIDS":http-user-agent="",My Kidz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
+http://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
 
 #EXTINF:-1 tvg-name="Aniplus"tvg-id="AniPlus"tvg-logo="https://i.imgur.com/Im3MePy.png"tvg-chno=""group-title="KIDS":http-user-agent="",ANIPLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-name="Hits"tvg-id="HITS.sg"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515947_ico.png?ts=1660693686"tvg-chno=""group-title="MOVIES":http-user-agent="",Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h205/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h205/index.m3u8
 
 #EXTINF:-1 tvg-name="HITS Movies"tvg-id="HITSMovies.sg"tvg-logo="http://www.dens.tv/images/channel-logo/119.jpg"tvg-chno=""group-title="MOVIES":http-user-agent="",HITS Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h206/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h206/index.m3u8
 
 #EXTINF:-1 tvg-name="Zee Bioskop"tvg-id="ZeeBioskop.id"tvg-logo="https://i.imgur.com/Xl7MJnd.png"tvg-chno=""group-title="MOVIES":http-user-agent="",Zee Bioskop
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzBhMTFhZjktZmE1Zi0zMWU0LWJhMmUtZmY1M2U2MWRiZTNh
-https://mangga-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+http://mangga-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTINF:-1 tvg-name="Celestial Movies"tvg-id="CelestialMovies.hk"tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png"tvg-chno=""group-title="MOVIES":http-user-agent="",Celestial Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h212/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h212/index.m3u8
 
 #EXTINF:-1 tvg-name="CCM"tvg-id="CCM.hk"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529154_ico.png?ts=1660694924"tvg-chno=""group-title="MOVIES":http-user-agent="",Celestial Classic Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h239/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h239/index.m3u8
 
 #EXTINF:-1 tvg-name="Thrill"tvg-id="Thrill.hk"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19498504_ico.png?ts=1655156867"tvg-chno=""group-title="MOVIES":http-user-agent="",Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h240/index.m3u8
-
-#EXTINF:-1 tvg-id="Dunia Sinema HD" tvg-name="Dunia Sinema HD" tvg-logo="https://i.postimg.cc/mDCCS0Rh/20230520-093534.jpg" group-title="MOVIES",Dunia Sinema
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
-#https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
+http://op-group1-swiftservehd-1.dens.tv/h/h240/index.m3u8
 
 #EXTINF:-1 tvg-name="CinemaWorld HD"tvg-id="CinemaWorld HD"tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202206/20220630/20220630155939789lm4.png"tvg-chno=""group-title="MOVIES":http-user-agent="",CinemaWorld HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h202/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h202/index.m3u8
 
 #EXTINF:-1 tvg-name="My Cinema"tvg-id="MyCinema"tvg-logo="https://i.imgur.com/pY7ZoWB.png"tvg-chno=""group-title="MOVIES":http-user-agent="",My Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -159,15 +154,15 @@ http://210.210.155.35/session/3074917a-7514-11ec-900b-c81f66f89318/uq2663/h/h194
 
 #EXTINF:-1 tvg-name="Rock Action"tvg-id="RockExtreme.sg"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_248.png"tvg-chno=""group-title="MOVIES":http-user-agent="",Rock Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h218/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h218/index.m3u8
 
 #EXTINF:-1 tvg-name="ROCK Entertainment"tvg-id="ROCKEntertainment.id"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_240.png"tvg-chno=""group-title="ENTERTAINMENT":http-user-agent="",Rock Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h213/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h213/index.m3u8
 
 #EXTINF:-1 tvg-name="Motorvision"tvg-id="ATAJ0500410A"tvg-logo="https://www.lyngsat.com/logo/tv/mm/motorvision-tv-de.png"tvg-chno=""group-title="SPORTS":http-user-agent="Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0",Motorvision TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h242/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h242/index.m3u8
 
 #EXTINF:-1 tvg-name="FashionTV HD"tvg-id="FashionTV HD"tvg-logo="https://i.imgur.com/ucTh9tO.png"tvg-chno=""group-title="LIFESTYLE":http-user-agent="",FashionTV HD
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/playlist.m3u8
@@ -177,13 +172,12 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mi
 
 #EXTINF:-1 tvg-name="KIX"tvg-id="KIX.id"tvg-logo="https://www.useetv.com/pimages/logo_kix_big.png?v=1"tvg-chno=""group-title="ENTERTAINMENT":http-user-agent="",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h220/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h220/index.m3u8
 
 #EXTINF:-1 tvg-name="tvN HD"tvg-id="tvN.id"tvg-logo="https://www.useetv.com/pimages/logo_tvn_big.png?v=1"tvg-chno=""group-title="ENTERTAINMENT":http-user-agent="",TVN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h215/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h215/index.m3u8
 
 #EXTINF:-1 tvg-name="tvN Movies"tvg-id="tvNMovies.kr"tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png"tvg-chno=""group-title="MOVIES":http-user-agent="",tvN Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h214/index.m3u8
-
+http://op-group1-swiftservehd-1.dens.tv/h/h214/index.m3u8
