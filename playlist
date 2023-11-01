@@ -188,3 +188,26 @@ http://op-group1-swiftservehd-1.dens.tv/h/h246/index.m3u8
 #EXTINF:-1 tvg-name="NHK World HD"tvg-id="NHKWorldPremium"tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/428_144.png"tvg-chno=""group-title="NEWS":http-user-agent="",NHK World HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h216/index.m3u8
+
+#EXTINF:-1 tvg-name="TV5MONDE ASIE"tvg-id="TV5MONDE ASIE"tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch714_160_115.png"tvg-chno=""group-title="NEWS":http-user-agent="",TV5MONDE ASIE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h247/index.m3u8
+
+#EXTINF:-1 tvg-name="DW English"tvg-id="DW"tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/287_144.png"tvg-chno=""group-title="NEWS":http-user-agent="",DW English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s25/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-name="France 24 English"tvg-id="France24English"tvg-logo="https://mncvision.id/userfiles/image/channel/france_150px.jpg"tvg-chno=""group-title="NEWS":http-user-agent="",France 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h226/index.m3u8
+
+#EXTINF:-1 tvg-name="CNA HD"tvg-id="CNA"tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/295_144.png"tvg-chno=""group-title="NEWS":http-user-agent="",CNA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8
+
+#EXTINF:-1 tvg-name="TRT World HD"tvg-id="TRT World HD"tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/468/Image/70x46_trt_world.png"tvg-chno=""group-title="NEWS":http-user-agent="",TRT WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h156/S4/mnf.m3u8
+
+
+
