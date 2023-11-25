@@ -79,7 +79,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h237/index.m3u8
 
 #EXTINF:-1 tvg-name="JakTV"tvg-id="JakTV.id"tvg-logo="https://alkhalifi1.github.io/TV/big/jaktv.png"group-title="LOKAL":http-user-agent="",JakTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://op-group1-swiftservesd-1.dens.tv/s/s13/S4/mnf.m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s13/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-name="Bandung TV"tvg-id="BandungTV.id"tvg-logo="https://alkhalifi1.github.io/TV/big/bandungtv.png"group-title="LOKAL":http-user-agent="",Bandung TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
