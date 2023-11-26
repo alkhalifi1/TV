@@ -94,7 +94,8 @@ https://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8
 
 #EXTINF:-1 tvg-name="Garuda TV"tvg-id="Garuda TV"tvg-logo="https://alkhalifi1.github.io/TV/big/garudatv.png"group-title="LOKAL":http-user-agent="",Garuda TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
+#https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
 #EXTINF:-1 tvg-name="IndiKids"tvg-id="IndiKids.id"tvg-logo="https://alkhalifi1.github.io/TV/big/funplanet.png"tvg-chno=""group-title="KIDS":http-user-agent="",Indi Kids
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
