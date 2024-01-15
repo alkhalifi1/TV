@@ -52,8 +52,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
 
 #EXTINF:-1 tvg-name="MOJI"tvg-id="MOJI"tvg-logo="https://alkhalifi1.github.io/TV/big/moji.png"tvg-chno=""group-title="NASIONAL",MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#http://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
-http://cheaptv.online:8080/stadnik2/7082341272/298550
+http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
+#http://cheaptv.online:8080/stadnik2/7082341272/298550
 
 #EXTINF:-1 tvg-name="iNews"tvg-id="iNews.id"tvg-logo="https://alkhalifi1.github.io/TV/big/inews.png"tvg-chno=""group-title="NASIONAL""group-title="NEWS",INEWS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
